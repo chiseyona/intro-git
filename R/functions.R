@@ -8,6 +8,8 @@ add_two <- function(x) {
   return(add_one(x))
 }
 
+#Je rajoute un commentaire ici #Je m'appelle Alice (eh non c'est une JOKE)
+
 # ** Uncomment and commit changes before starting scenario 2 **
 # add_n <- function(x, n) {
 #
